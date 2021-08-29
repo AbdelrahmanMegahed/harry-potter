@@ -1,0 +1,64 @@
+/* css rulez */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+body {
+  background-color: #a4e2d5;
+  padding: 20px;
+}
+
+.header {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+#heading {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 30px;
+}
+
+/* .auther {
+  text-decoration: wavy;
+} */
+
+#con {
+  display: flexbox;
+}
+
+#content {
+  margin-left: 310px;
+}
+
+.image {
+  float: left;
+  height: 410px;
+  width: 280px;
+  border: 1px solid black;
+}
+
+.aboutTheBook {
+  display: flex;
+  width: 500px;
+  font-size: 20px;
+  /* text-align: justify; */
+  font-family: "Noto Sans", sans-serif;
+}
+
+.publish {
+  font-size: 20px;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+@media (max-width: 600px) {
+  .image {
+    position: absolute;
+    top: 20%;
+    right: 20%;
+    margin-left: 20px;
+  }
+
+  #content {
+    display: block;
+    margin: 20px;
+    margin-top: 490px;
+  }
+}
