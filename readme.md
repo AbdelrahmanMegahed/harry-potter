@@ -21,9 +21,3 @@
     1. Use the search engine to search for any property you need to know, for instance: how to add borders? this will help you a lot while working on your project.
 
     2. After finishing your project you will need to share your code and publish your project so we ( the tutors and your colleagues) can see your amazing work.
-
-# harry-potter
-
-# harry-potter
-
-# harry-potter
